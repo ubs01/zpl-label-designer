@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ubs01/zpl-label-designer/issues"
   },
-  "homepage": "https://github.com/ubs01/zpl-label-designer#readme"
+  "homepage": "https://github.com/ubs01/zpl-label-designer#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
